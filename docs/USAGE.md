@@ -27,7 +27,7 @@ npm install -g @min0504/dev-up   # installs dev, devup, devdown, devrestart, dev
 Or from source:
 
 ```bash
-git clone https://github.com/Min0504/dev-up.git
+git clone https://github.com/minsdevs/dev-up.git
 cd dev-up
 npm install && npm link
 ```

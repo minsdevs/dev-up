@@ -35,7 +35,7 @@ npm install -g @min0504/dev-up   # dev, devup, devdown, devrestart, devstatus, d
 소스에서 설치:
 
 ```bash
-git clone https://github.com/Min0504/dev-up.git
+git clone https://github.com/minsdevs/dev-up.git
 cd dev-up
 npm install && npm link
 ```

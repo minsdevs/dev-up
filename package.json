@@ -1,18 +1,18 @@
 {
   "name": "@min0504/dev-up",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
   },
   "description": "Personal dev environment orchestrator: bring a whole project dev stack up/down with one command",
-  "author": "Min0504",
+  "author": "minsdevs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Min0504/dev-up.git"
+    "url": "git+https://github.com/minsdevs/dev-up.git"
   },
-  "homepage": "https://github.com/Min0504/dev-up#readme",
-  "bugs": "https://github.com/Min0504/dev-up/issues",
+  "homepage": "https://github.com/minsdevs/dev-up#readme",
+  "bugs": "https://github.com/minsdevs/dev-up/issues",
   "keywords": [
     "cli",
     "developer-tools",
